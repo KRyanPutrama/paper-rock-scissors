@@ -1,0 +1,19 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculateChange.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KRyanPutrama/paper-rock-scissors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KRyanPutrama/paper-rock-scissors/issues"
+  },
+  "homepage": "https://github.com/KRyanPutrama/paper-rock-scissors#readme"
+}
